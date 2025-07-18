@@ -1,7 +1,7 @@
 # 💤 Sleep Disorder Analysis Power BI Dashboard
 
 ## 1. Headline  
-A visually engaging dashboard designed to analyze patterns of sleep disorders like insomnia and sleep apnea—breaking down health, lifestyle, and demographic factors across age, BMI, gender, and occupation.
+A visually engaging dashboard designed to analyze patterns of sleep disorders like insomnia and sleep apnea, breaking down health, lifestyle, and demographic factors across age, BMI, gender, and occupation.
 
 ---
 
@@ -21,7 +21,7 @@ The dashboard was built using the following tools and technologies:
 ---
 
 ## 4. Data Source  
-The dataset is a structured CSV file consisting of personal, lifestyle, and medical information of individuals including:  
+The dataset is a structured CSV file consisting of personal, lifestyle, and medical information of individuals, including:  
 - Sleep disorder diagnosis (insomnia, sleep apnea, or none)  
 - Sleep duration, sleep score, and stress level  
 - Age, gender, BMI category, and occupation  
@@ -40,7 +40,7 @@ Questions like:
 - How do stress and sleep quality vary with age?  
 - What’s the correlation between occupation and physical activity or sleep disorders?
 
-These are some of the questions that are difficult to answer without interactive insights !
+These are some of the questions that are difficult to answer without interactive insights!
 
 ---
 
@@ -68,7 +68,7 @@ To build an interactive, user-friendly Power BI report that:
   Number of individuals segmented by BMI (Normal, Underweight, Overweight, Obese)
 
 - 👣 **Average Steps by Occupation (Column Charts)**  
-  Steps taken by individuals in roles like Manual Labor, Office Worker, Student, Retired — shows how physical activity varies with profession
+  Steps taken by individuals in roles like Manual Labor, Office Worker, Student, and Retired shows how physical activity varies with profession
 
 - 🎯 **Sleep Disorder Tracker (Center Panel)**  
   Pie chart of total sleep disorder vs. non-disorder cases  
