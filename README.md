@@ -86,6 +86,9 @@ To build an interactive, user-friendly Power BI report that:
 ---
 
 ## 6. Screenshot / Demo  
-![Dashboard Preview](https://github.com/your-username/sleep-disorder-dashboard/blob/main/Sleep_Disorder_Dashboard.png)  
+![Dashboard Preview](Sleep_Analysis_Project_Screenshot.png)  
 > Dashboard showing side-by-side analysis of insomnia and sleep apnea across demographics and lifestyle factors.
+
+> [▶️ Watch Demo Video]()
+
 
